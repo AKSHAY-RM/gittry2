@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/VRKeys/Scenes/Example Scene - Vive.unity
+    guid: 0ba5ae3438063a64f9d9dd2759dee077
+  m_configObjects: {}
